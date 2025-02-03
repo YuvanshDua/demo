@@ -1,4 +1,4 @@
 # demo
-leaning github
+learning github
 <br>
 learning by yuvansh dua
